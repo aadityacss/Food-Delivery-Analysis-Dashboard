@@ -2,3 +2,8 @@
 
 ## 📌 Short Description & Purpose
 This project features a comprehensive Power BI dashboard designed to analyze food delivery operations and restaurant performance. The purpose of this analysis is to provide actionable business intelligence to management, helping them optimize delivery times, identify top-performing restaurant partners, and track customer satisfaction trends across multiple cities.
+
+## 💻 Tech Stack Used
+*   *Data Visualization & Modeling:* Power BI
+*   *Data Processing & Storage:* Microsoft Excel (Food-Delivery-Data.xlsx)
+*   *Querying & Calculated Measures:* DAX (Data Analysis Expressions)
