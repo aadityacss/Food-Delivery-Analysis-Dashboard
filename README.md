@@ -9,5 +9,4 @@ This project features a comprehensive Power BI dashboard designed to analyze foo
 *   *Querying & Calculated Measures:* DAX (Data Analysis Expressions)
 
 *   ## Dataset used
-
 *   <a href="https://github.com/aadityacss/Food-Delivery-Analysis-Dashboard/blob/main/Food-Delivery-Data.xlsx">Dataset</a>
