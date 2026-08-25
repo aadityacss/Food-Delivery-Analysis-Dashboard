@@ -43,11 +43,13 @@ To enable dynamic filtering and accurate KPI tracking, several DAX measures were
 ## 📸 Dashboard Snapshots
 
 ### Overview Dashboard
-![Overview Dashboard] <img width="1450" height="807" alt="Food Delivery Overview" src="https://github.com/user-attachments/assets/6dae1a43-0265-462b-a433-d793592a7201" />
+<img width="1450" height="807" alt="Food Delivery Overview" src="https://github.com/user-attachments/assets/6dae1a43-0265-462b-a433-d793592a7201" />
 
 
 ### Delivery Analysis Report
-![Delivery Analysis Report](Delivery-Analysis-Dashboard.png)
+<img width="1450" height="814" alt="Delivery Analysis" src="https://github.com/user-attachments/assets/887a5dab-972c-416c-a538-7af29ac5f741" />
+
 
 ### Restaurant Analysis Report
-![Restaurant Analysis Report](Restaurant-Analysis-Dashboard.png)
+<img width="1449" height="813" alt="Restaurant Analysis" src="https://github.com/user-attachments/assets/c7f97ccc-621e-43d0-961d-6c497dc00260" />
+
