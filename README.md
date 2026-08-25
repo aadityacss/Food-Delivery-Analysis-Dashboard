@@ -1,2 +1,4 @@
-# Food-Delivery-Analysis-Dashboard
-Food Delivery Analysis is a Power BI project that analyzes 5,000 orders and ₹4M revenue. The interactive dashboard tracks delivered, delayed, and cancelled orders using KPIs, charts, and filters. It provides insights into delivery performance, revenue trends, and operational efficiency, helping businesses make better decisions. and improve service.
+# 🍔 Food Delivery Data Analysis Dashboard
+
+## 📌 Short Description & Purpose
+This project features a comprehensive Power BI dashboard designed to analyze food delivery operations and restaurant performance. The purpose of this analysis is to provide actionable business intelligence to management, helping them optimize delivery times, identify top-performing restaurant partners, and track customer satisfaction trends across multiple cities.
