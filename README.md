@@ -5,5 +5,5 @@ This project features a comprehensive Power BI dashboard designed to analyze foo
 
 ## 💻 Tech Stack Used
 *   *Data Visualization & Modeling:* Power BI
-*   *Data Processing & Storage:* Microsoft Excel *<a href="https://github.com/aadityacss/Food-Delivery-Analysis-Dashboard/blob/main/Food-Delivery-Data.xlsx">Dataset</a>
+*   *Data Processing & Storage:* Microsoft Excel <a href="https://github.com/aadityacss/Food-Delivery-Analysis-Dashboard/blob/main/Food-Delivery-Data.xlsx">Dataset</a>
 *   *Querying & Calculated Measures:* DAX (Data Analysis Expressions)
