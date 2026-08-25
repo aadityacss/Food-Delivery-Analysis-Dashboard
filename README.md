@@ -23,3 +23,8 @@ Management lacked visibility into operational bottlenecks and partner performanc
 To provide an interactive, high-level overview and deep-dive capabilities into two main areas:
 *   *Delivery Analysis:* Tracking average, minimum, and maximum delivery times across different cities and identifying the proportion of delayed vs. delivered orders.
 *   *Restaurant Analysis:* Evaluating restaurant performance based on total revenue, order volume, and month-over-month revenue trends.
+
+### 3. Key DAX Measures Used
+To enable dynamic filtering and accurate KPI tracking, several DAX measures were created. Key examples include:
+*   *Min Delivery Time:* Min Delivery Time = MIN('Sheet1'[Delivery Time])
+*   *Max Delivery Time:* Max Delivery Time = MAX('Sheet1'[Delivery Time])
