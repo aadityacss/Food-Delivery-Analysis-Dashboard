@@ -34,3 +34,8 @@ To enable dynamic filtering and accurate KPI tracking, several DAX measures were
 *   *100% Stacked Bar Charts:* To visualize order status (Delivered, Delayed, Cancelled) normalized by city.
 *   *Treemap / Donut Charts:* To instantly highlight top-earning restaurants.
 *   *Time-Series Line Chart:* To track revenue generation by restaurant across different months (February, March, April).
+
+### 5. Business Impact & Insights
+*   *Delivery Bottlenecks:* The overall average delivery time is ~29.60 minutes. However, by tracking the maximum delivery time (up to 89 minutes) and the delayed order status (~5.1%), management can now investigate specific regional routes causing major delays.
+*   *Restaurant Performance:* The Treemap clearly highlights the most lucrative partnerships, with "Taco Bell" and "Mainland China" driving significant portions of the 4M total revenue. This guides future marketing and partnership focus.
+*   *Customer Satisfaction:* By monitoring the Average Rating (4.13) alongside delivery times, the business can accurately correlate operational speed with customer happiness.
