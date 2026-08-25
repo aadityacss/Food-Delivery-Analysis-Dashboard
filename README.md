@@ -28,3 +28,9 @@ To provide an interactive, high-level overview and deep-dive capabilities into t
 To enable dynamic filtering and accurate KPI tracking, several DAX measures were created. Key examples include:
 *   *Min Delivery Time:* Min Delivery Time = MIN('Sheet1'[Delivery Time])
 *   *Max Delivery Time:* Max Delivery Time = MAX('Sheet1'[Delivery Time])
+
+*   ### 4. Key Visuals & Dashboards
+*   *KPI Cards:* High-level metrics tracking Total Revenue (4M), Total Orders (5K), Average Delivery Time (29.60 mins), and Average Rating (4.13).
+*   *100% Stacked Bar Charts:* To visualize order status (Delivered, Delayed, Cancelled) normalized by city.
+*   *Treemap / Donut Charts:* To instantly highlight top-earning restaurants.
+*   *Time-Series Line Chart:* To track revenue generation by restaurant across different months (February, March, April).
